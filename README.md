@@ -33,4 +33,6 @@
 - Navegação suave: Implementação de scroll-behavior: smooth para um deslocamento suave entre as seções.
 - Componentização de seções: Estrutura organizada por seções e classes específicas para fácil manutenção e escalabilidade.
 - Fonts do Google Fonts: Integração com Google Fonts para uso da fonte Montserrat.
+
+  <img src="https://github.com/EduardoDev98/Projeto-yoga/blob/main/assets/Captura%20de%20tela%202024-10-04%20135120.png?raw=true"/>
   
